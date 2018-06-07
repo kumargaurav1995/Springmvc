@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.edx.org	TRUE	/	FALSE	1999999999	__cfduid	d10c9c3a31e83a469e1e7c4158ba322981528316377
+
